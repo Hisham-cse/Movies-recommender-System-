@@ -54,10 +54,3 @@ The movie data and similarity scores are precomputed and stored in `movies_dict.
 
 We welcome contributions! Please fork the repository and submit pull requests for any features, bug fixes, or improvements.
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to update this README to better fit your project's specific details and requirements.
